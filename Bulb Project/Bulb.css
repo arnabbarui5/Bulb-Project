@@ -1,0 +1,29 @@
+body {
+	background-color: #FFECE5;
+}
+
+
+#bulb
+{
+	height: 300px;
+	padding-top: 50px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button-container {
+	margin-left: 430px;
+	padding-top: 20px;
+}
+
+button {
+	padding: 3px 9px;
+	margin: 60px;
+    cursor: pointer;
+	background-color: black;
+	color: white;
+	font-family: 'Balsamiq Sans', cursive;
+
+}
+
